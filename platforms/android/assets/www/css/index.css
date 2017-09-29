@@ -1,0 +1,31 @@
+*{
+	font-size: 14px;
+}
+
+.home-content{
+	margin-top: 100px;
+}
+
+.home-content .image-box{
+
+}
+
+.home-content .button-box{
+	margin-top: 10px;
+}
+
+.nova-content{
+}
+
+.nova-content .texto{
+	margin-top: 30px;
+}
+
+.nova-content .checkboxgroup-box{
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+.nova-content .button-box{
+	margin-top: 30px;
+}
