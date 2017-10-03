@@ -1,4 +1,4 @@
-<div class="nova-content">
+<div class="selecionar-content">
 	<div class="texto text-center">
 		<h3>Selecione o tipo da festa</h3>
 	</div>
@@ -33,6 +33,6 @@
 		</div>
 	</div>
 	<div class="button-box col-md-4 col-md-offset-4">
-		<button class="btn btn-primary btn-lg btn-block">Iniciar</button>
+		<button class="btn btn-primary btn-lg btn-block">Proximo</button>
 	</div>
 </div>

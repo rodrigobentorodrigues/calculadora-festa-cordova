@@ -1,6 +1,6 @@
 <div class="home-content">
 	<div class="text-center">
-		<h3>Calculadora</h3>
+		<h3>Calculadora de Festa</h3>
 	</div>
 	<div class="image-box text-center">
 		<img src="img/logo.png">

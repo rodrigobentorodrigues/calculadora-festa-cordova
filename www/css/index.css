@@ -14,18 +14,50 @@
 	margin-top: 10px;
 }
 
-.nova-content{
+.selecionar-content{
 }
 
-.nova-content .texto{
-	margin-top: 30px;
+.selecionar-content .texto{
+	margin-top: 45px;
 }
 
-.nova-content .checkboxgroup-box{
+.selecionar-content .checkboxgroup-box{
+	margin-top: 60px;
+	margin-left: 40px;
+}
+
+.selecionar-content .button-box{
+	margin-top: 60px;
+}
+
+.info-content{
+}
+
+.info-content .texto{
 	margin-top: 40px;
-	margin-left: 20px;
 }
 
-.nova-content .button-box{
+.info-content .info-form{
+	margin-top: 40px;
+}
+
+.info-content .button-box{
+	margin-top: 40px;
+}
+
+.emp-content{}
+
+.emp-content .texto{
+	margin-top: 40px;
+}
+
+.emp-content .emp-form{
 	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.calc-content{}
+
+.calc .texto{
+	margin-top: 40px;
 }
